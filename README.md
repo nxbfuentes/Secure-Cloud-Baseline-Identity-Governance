@@ -1,15 +1,9 @@
-Happy Sunday, May 3, 2026! [cite_start]This is a major milestone in your IT & Security Foundation sprint—the launch of your first "Proof of Work" project[cite: 4, 125].
 
-[cite_start]In GRC, how you **document** your work is just as important as the technical setup itself[cite: 5, 58]. [cite_start]This documentation serves as evidence for future employers and auditors that you understand not just how to click buttons, but *why* those buttons matter to the business[cite: 6, 58].
-
-[cite_start]Below is a template you can copy and paste into Word, Notion, or a GitHub README to document your Sunday cloud project[cite: 59].
-
----
 
 # Project: Secure Cloud Baseline & Identity Governance
 **Date:** May 3, 2026
 **Environment:** AWS / Azure Free Tier (Select one)
-**Author:** [Your Name]
+**Author:** Noel Fuentes
 
 ## 1. The "What": Project Overview
 [cite_start]The objective of this lab was to establish a "secure by design" foundation for a new cloud environment[cite: 7, 59]. [cite_start]By implementing baseline security controls before deploying any resources, I have ensured that the environment is protected against common initial access vectors[cite: 136, 167].
